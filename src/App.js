@@ -51,7 +51,6 @@ export default class App extends Component {
     return (
       <div>
         <div className="wrapper">
-          <div className="main">
             <div className="container">
               <div className="row">
                 <div className="col-xs-5 title-container">
@@ -71,7 +70,6 @@ export default class App extends Component {
               </div>
             </div>
           </div>
-        </div>
       </div>
     );
   }
